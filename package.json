@@ -1,0 +1,8 @@
+{
+  "name": "TicTacToe",
+  "version": "0.0.1",
+  "description": "Tic Tac Toe game using Node Js",
+  "dependencies": {
+  
+  }
+}

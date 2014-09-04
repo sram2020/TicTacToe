@@ -1,0 +1,9 @@
+            .block {
+                height: 100px;
+                width: 100px;
+                border-radius:0px;
+                float: left;
+                background-color: #2C7CC3;
+                text-align: center;
+                font-size: 100px;
+            }
